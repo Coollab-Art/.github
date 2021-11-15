@@ -21,6 +21,10 @@ Don't hesitate to visit [our website][website] for more information!
 
 ## Projects using Cool
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo)](https://github.com/CoolLibs/Demo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab)](https://github.com/CoolLibs/Lab)
+<a href="https://github.com/CoolLibs/Demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo&theme=default" />
+</a>
+<a href="https://github.com/CoolLibs/Lab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab&theme=default" />
+</a>
