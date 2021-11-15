@@ -12,3 +12,15 @@ In here you will find:
 Don't hesitate to visit [our website][website] for more information!
 
 [website]: https://coollibs.github.io/home/
+
+## Cool framework
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Cool)](https://github.com/CoolLibs/Cool)
+
+## Standalone libraries
+
+## Projects using Cool
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo)](https://github.com/CoolLibs/Demo)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab)](https://github.com/CoolLibs/Lab)
