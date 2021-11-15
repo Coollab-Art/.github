@@ -1,6 +1,6 @@
 # Cool
 
-Welcome to the [*Cool*](https://coollibs.github.io/home/) organization! 🥳
+Welcome to the [*Cool*][website] organization! 🥳
 
 In here you will find:
 - The core *Cool* framework and its extensions
@@ -9,4 +9,6 @@ In here you will find:
 - Projects that are built with *Cool* and that can serve as examples for you to get started
 - The sources for our website
 
-Don't hesitate to visit [our website](https://coollibs.github.io/home/) for more information!
+Don't hesitate to visit [our website][website] for more information!
+
+[website]: https://coollibs.github.io/home/
