@@ -41,6 +41,8 @@ Don't hesitate to visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab" />
 </a>
 
+<br/>
+
 [*Add your own project to this list!*](https://github.com/CoolLibs/.github/issues)
 
 ## Credits
