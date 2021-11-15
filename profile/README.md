@@ -16,31 +16,31 @@ Don't hesitate to visit [our website][website] for more information!
 ## Cool framework
 
 <a href="https://github.com/CoolLibs/Cool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Cool" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Cool&theme=" />
 </a>
 
 ## Standalone libraries
 
 <a href="https://github.com/CoolLibs/glpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp&theme=" />
 </a>
 
 <a href="https://github.com/CoolLibs/smart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=smart" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=smart&theme=" />
 </a>
 
 <a href="https://github.com/CoolLibs/easy-shaderc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc&theme=" />
 </a>
 
 ## Projects using Cool
 
 <a href="https://github.com/CoolLibs/Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo&theme=0" />
 </a>
 
 <a href="https://github.com/CoolLibs/Lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab&theme=0" />
 </a>
 
 [*Add your own project to this list!*](https://github.com/CoolLibs/.github/issues)
