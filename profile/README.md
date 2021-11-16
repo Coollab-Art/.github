@@ -1,6 +1,6 @@
 # Cool
 
-Welcome to the [*Cool*][website] organization! 🥳
+Welcome to the *Cool* organization! 🥳
 
 In here you will find:
 - The core *Cool* framework and its extensions
@@ -27,6 +27,10 @@ Don't hesitate to visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/smart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=smart" />
+</a>
+
+<a href="https://github.com/CoolLibs/ObGL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=ObGL" />
 </a>
 
 <a href="https://github.com/CoolLibs/easy-shaderc">
