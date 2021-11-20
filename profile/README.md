@@ -30,7 +30,7 @@ Don't hesitate to visit [our website][website] for more information!
 </a>
 
 <a href="https://github.com/CoolLibs/ObGL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=ObGL" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp-extended" />
 </a>
 
 <a href="https://github.com/CoolLibs/easy-shaderc">
