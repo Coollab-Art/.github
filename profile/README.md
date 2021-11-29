@@ -29,12 +29,16 @@ Please visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=smart" />
 </a>
 
-<a href="https://github.com/CoolLibs/ObGL">
+<a href="https://github.com/CoolLibs/glpp-extended">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp-extended" />
 </a>
 
 <a href="https://github.com/CoolLibs/easy-shaderc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
+</a>
+
+<a href="https://github.com/CoolLibs/img">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
 </a>
 
 ## Projects using Cool
