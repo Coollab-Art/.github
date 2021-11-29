@@ -9,7 +9,7 @@ In here you will find:
 - Forks of third-party libraries that we needed to tweak
 - The sources for our website
 
-Don't hesitate to visit [our website][website] for more information!
+Please visit [our website][website] for more information!
 
 [website]: https://coollibs.github.io/home/
 
