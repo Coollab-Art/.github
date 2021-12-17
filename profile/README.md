@@ -21,6 +21,14 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/CMakeUtils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=CMakeUtils" />
+</a>
+
+<a href="https://github.com/CoolLibs/img">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
+</a>
+
 <a href="https://github.com/CoolLibs/glpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp" />
 </a>
@@ -35,10 +43,6 @@ Visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/easy-shaderc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
-</a>
-
-<a href="https://github.com/CoolLibs/img">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
 </a>
 
 ## Projects using Cool
