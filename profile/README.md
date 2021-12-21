@@ -45,6 +45,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
 </a>
 
+<a href="https://github.com/CoolLibs/cmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
+</a>
+
 ## Projects using Cool
 
 <a href="https://github.com/CoolLibs/Demo">
