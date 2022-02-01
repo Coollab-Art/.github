@@ -29,6 +29,14 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
 </a>
 
+<a href="https://github.com/CoolLibs/op">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=op" />
+</a>
+
+<a href="https://github.com/CoolLibs/cmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
+</a>
+
 <a href="https://github.com/CoolLibs/glpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp" />
 </a>
@@ -43,10 +51,6 @@ Visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/easy-shaderc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
-</a>
-
-<a href="https://github.com/CoolLibs/cmd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
 </a>
 
 ## Projects using Cool
