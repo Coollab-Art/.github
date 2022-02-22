@@ -11,7 +11,7 @@ In here you will find:
 
 Visit [our website][website] for more information!
 
-[website]: https://coollibs.github.io/home/
+[website]: https://coollibs.github.io/
 
 ## Cool framework
 
