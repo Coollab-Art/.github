@@ -21,6 +21,14 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/cmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
+</a>
+
+<a href="https://github.com/CoolLibs/reg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=reg" />
+</a>
+
 <a href="https://github.com/CoolLibs/CMakeUtils">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=CMakeUtils" />
 </a>
@@ -31,10 +39,6 @@ Visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/op">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=op" />
-</a>
-
-<a href="https://github.com/CoolLibs/cmd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
 </a>
 
 <a href="https://github.com/CoolLibs/glpp">
