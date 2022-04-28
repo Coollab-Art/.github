@@ -63,12 +63,12 @@ Visit [our website][website] for more information!
 
 ## Projects using Cool
 
-<a href="https://github.com/CoolLibs/Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
-</a>
-
 <a href="https://github.com/CoolLibs/Lab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab" />
+</a>
+
+<a href="https://github.com/CoolLibs/Demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
 </a>
 
 [*Add your own project to this list!*](https://github.com/CoolLibs/.github/issues)
