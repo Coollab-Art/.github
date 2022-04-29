@@ -29,6 +29,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=reg" />
 </a>
 
+<a href="https://github.com/CoolLibs/serv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=serv" />
+</a>
+
 <a href="https://github.com/CoolLibs/CMakeUtils">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=CMakeUtils" />
 </a>
