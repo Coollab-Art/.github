@@ -11,7 +11,7 @@ In here you will find:
 
 Visit [our website][website] for more information!
 
-The philosophy of our libraries are to be:
+The philosophy of our libraries is to be:
 - open-source
 - cross-platform
 - easy to integrate into any project through CMake
