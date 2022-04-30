@@ -43,6 +43,10 @@ The philosophy of our libraries is to be:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=CMakeUtils" />
 </a>
 
+<a href="https://github.com/CoolLibs/tooling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=tooling" />
+</a>
+
 <a href="https://github.com/CoolLibs/img">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
 </a>
