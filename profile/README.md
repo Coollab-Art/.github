@@ -85,6 +85,10 @@ The philosophy of our libraries is to be:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=library-template" />
 </a>
 
+<a href="https://github.com/CoolLibs/Demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
+</a>
+
 ## Projects using Cool
 
 <a href="https://github.com/CoolLibs/Lab">
