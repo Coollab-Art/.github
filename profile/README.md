@@ -75,6 +75,12 @@ The philosophy of our libraries is to be:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
 </a>
 
+## Templates
+
+<a href="https://github.com/CoolLibs/library-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=library-template" />
+</a>
+
 ## Projects using Cool
 
 <a href="https://github.com/CoolLibs/Lab">
