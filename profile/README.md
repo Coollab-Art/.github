@@ -51,6 +51,10 @@ The philosophy of our libraries is to be:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
 </a>
 
+<a href="https://github.com/CoolLibs/cam3d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cam3d" />
+</a>
+
 <a href="https://github.com/CoolLibs/op">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=op" />
 </a>
