@@ -27,6 +27,10 @@ The philosophy of our libraries is to be:
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/stringify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=stringify" />
+</a>
+
 <a href="https://github.com/CoolLibs/cmd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
 </a>
