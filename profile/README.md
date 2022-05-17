@@ -1,5 +1,7 @@
 # CoolLibs
 
+*https://coollibs.github.io/*
+
 Welcome to the *CoolLibs* organization! 🥳
 
 🚀 Our main goal is to build *Cool*, a modern framework for computer graphics software.<br/>
