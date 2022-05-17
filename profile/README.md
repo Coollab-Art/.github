@@ -1,6 +1,6 @@
 # Cool
 
-Welcome to the *Cool* organization! 🥳
+Welcome to the *CoolLibs* organization! 🥳
 
 🚀 Our main goal is to build *Cool*, a modern framework for computer graphics software.<br/>
 🛠️ In doing so we also develop many small libraries, independent of the big framework.<br/>
