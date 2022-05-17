@@ -1,4 +1,4 @@
-# Cool
+# CoolLibs
 
 Welcome to the *CoolLibs* organization! 🥳
 
