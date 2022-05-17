@@ -11,6 +11,12 @@ Welcome to the *CoolLibs* organization! 🥳
 🤗 We support other open-source projects and contribute back to all the projects we rely on, either through pull requests or sponsorships.<br/>
 👩‍🏫 We take on interns each year because we are happy to teach young developers and welcome new contributors.<br/>
 
+The philosophy of our libraries is to be:
+- 🎁 Open-source
+- 🚀 Cross-platform
+- 😎 Easy to integrate into any project through CMake
+- 🛠️ Easy to build from source
+
 In here you will find:
 - The core *Cool* framework and its extensions
 - Small libraries that we built for *Cool* and that you can use in your own projects without including the whole *Cool* framework
@@ -19,12 +25,6 @@ In here you will find:
 - The sources for our website
 
 Visit [our website][website] for more information!
-
-The philosophy of our libraries is to be:
-- open-source
-- cross-platform
-- easy to integrate into any project through CMake
-- easy to build from source
 
 [website]: https://coollibs.github.io/
 
