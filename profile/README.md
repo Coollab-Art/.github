@@ -2,6 +2,13 @@
 
 Welcome to the *Cool* organization! 🥳
 
+🚀 Our main goal is to build *Cool*, a modern framework for computer graphics software.
+🛠️ In doing so we also develop many small libraries, independent of the big framework.
+🎨 With this framework we build [a generative-art software, *CoolLab*](https://coollibs.github.io/lab).
+📖 We also document our process as much as possible and [share our learnings on our website](https://coollibs.github.io/blog).
+🤗 We support other open-source projects and contribute back to all the projects we rely on, either through pull requests or sponsorships.
+👩‍🏫 We take on interns each year because we are happy to teach young developers and welcome new contributors.
+
 In here you will find:
 - The core *Cool* framework and its extensions
 - Small libraries that we built for *Cool* and that you can use in your own projects without including the whole *Cool* framework
