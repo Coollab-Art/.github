@@ -29,6 +29,7 @@ Visit [our website][website] for more information!
 [website]: https://coollibs.github.io/
 
 [**💗 Sponsor Us on GitHub**](https://github.com/sponsors/CoolLibs)
+[**💗 Sponsor Us on uTip**](https://utip.io/CoolLab)
 
 ## Cool framework
 
@@ -64,6 +65,10 @@ Visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/img">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
+</a>
+
+<a href="https://github.com/CoolLibs/type_from_string">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=type_from_string" />
 </a>
 
 <a href="https://github.com/CoolLibs/cam3d">
