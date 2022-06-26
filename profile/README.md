@@ -28,7 +28,7 @@ Visit [our website][website] for more information!
 
 [website]: https://coollibs.github.io/
 
-[**💗 Sponsor Us on GitHub**](https://github.com/sponsors/CoolLibs)
+[**💗 Sponsor Us on GitHub**](https://github.com/sponsors/CoolLibs)<br/>
 [**💗 Sponsor Us on uTip**](https://utip.io/CoolLab)
 
 ## Cool framework
