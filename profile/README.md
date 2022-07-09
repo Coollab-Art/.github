@@ -39,6 +39,14 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/algoritms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=algoritms" />
+</a>
+
+<a href="https://github.com/CoolLibs/wafl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=wafl" />
+</a>
+
 <a href="https://github.com/CoolLibs/stringify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=stringify" />
 </a>
