@@ -39,8 +39,8 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
-<a href="https://github.com/CoolLibs/algoritms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=algoritms" />
+<a href="https://github.com/CoolLibs/algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=algorithms" />
 </a>
 
 <a href="https://github.com/CoolLibs/wafl">
