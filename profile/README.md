@@ -99,6 +99,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp-extended" />
 </a>
 
+<a href="https://github.com/CoolLibs/open_link">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=open_link" />
+</a>
+
 <a href="https://github.com/CoolLibs/exe_path">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=exe_path" />
 </a>
