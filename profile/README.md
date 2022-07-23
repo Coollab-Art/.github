@@ -17,13 +17,6 @@ The philosophy of our libraries is to be:
 - 😎 Easy to integrate into any project through CMake
 - 🛠️ Easy to build from source
 
-In here you will find:
-- The core *Cool* framework and its extensions
-- Small libraries that we built for *Cool* and that you can use in your own projects without including the whole *Cool* framework
-- Projects that are built with *Cool* and that can serve as examples for you to get started
-- Forks of third-party libraries that we needed to tweak
-- The sources for our website
-
 Visit [our website][website] for more information!
 
 [website]: https://coollibs.github.io/
