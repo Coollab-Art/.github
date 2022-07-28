@@ -112,6 +112,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
 </a>
 
+<a href="https://github.com/CoolLibs/Test_GitHub_Action">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Test_GitHub_Action" />
+</a>
+
 ## Templates
 
 <a href="https://github.com/CoolLibs/library-template">
