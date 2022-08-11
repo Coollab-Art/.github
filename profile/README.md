@@ -72,10 +72,6 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
 </a>
 
-<a href="https://github.com/CoolLibs/type_from_string">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=type_from_string" />
-</a>
-
 <a href="https://github.com/CoolLibs/cam3d">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cam3d" />
 </a>
