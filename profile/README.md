@@ -108,10 +108,6 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
 </a>
 
-<a href="https://github.com/CoolLibs/Test_GitHub_Action">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Test_GitHub_Action" />
-</a>
-
 ## Templates
 
 <a href="https://github.com/CoolLibs/library-template">
@@ -120,6 +116,10 @@ Visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/Demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
+</a>
+
+<a href="https://github.com/CoolLibs/cpp-CI-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cpp-CI-template" />
 </a>
 
 ## Projects using Cool
