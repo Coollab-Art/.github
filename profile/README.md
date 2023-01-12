@@ -104,6 +104,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
 </a>
 
+<a href="https://github.com/CoolLibs/folder-watcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=folder-watcher" />
+</a>
+
 ## Templates
 
 <a href="https://github.com/CoolLibs/library-template">
@@ -126,10 +130,6 @@ Visit [our website][website] for more information!
 
 <a href="https://github.com/CoolLibs/Demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
-</a>
-
-<a href="https://github.com/CoolLibs/folder-watcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=folder-watcher" />
 </a>
 
 [*Add your own project to this list!*](https://github.com/CoolLibs/.github/issues)
