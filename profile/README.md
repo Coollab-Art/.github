@@ -104,8 +104,8 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
 </a>
 
-<a href="https://github.com/CoolLibs/folder-watcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=folder-watcher" />
+<a href="https://github.com/CoolLibs/folder_watcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=folder_watcher" />
 </a>
 
 ## Templates
