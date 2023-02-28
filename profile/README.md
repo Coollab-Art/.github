@@ -32,6 +32,10 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/os_name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=os_name" />
+</a>
+
 <a href="https://github.com/CoolLibs/imgui_gradient">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=imgui_gradient" />
 </a>
