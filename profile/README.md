@@ -36,6 +36,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=os_name" />
 </a>
 
+<a href="https://github.com/CoolLibs/ImGui_StyleEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=ImGui_StyleEditor" />
+</a>
+
 <a href="https://github.com/CoolLibs/imgui_gradient">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=imgui_gradient" />
 </a>
