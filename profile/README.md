@@ -120,6 +120,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=folder_watcher" />
 </a>
 
+<a href="https://github.com/CoolLibs/easy_opencv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy_opencv" />
+</a>
+
 ## Templates
 
 <a href="https://github.com/CoolLibs/library-template">
