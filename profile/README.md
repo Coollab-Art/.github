@@ -135,6 +135,10 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=webcam_info" />
 </a>
 
+<a href="https://github.com/CoolLibs/easy_ffmpeg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy_ffmpeg" />
+</a>
+
 ## Templates
 
 <a href="https://github.com/CoolLibs/library-template">
