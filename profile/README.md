@@ -131,8 +131,8 @@ Visit [our website][website] for more information!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy_opencv" />
 </a>
 
-<a href="https://github.com/CoolLibs/webcam_info">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=webcam_info" />
+<a href="https://github.com/CoolLibs/wcam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=wcam" />
 </a>
 
 <a href="https://github.com/CoolLibs/easy_ffmpeg">
