@@ -32,9 +32,14 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/no-sleep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=no-sleep" />
+</a>
+
 <a href="https://github.com/CoolLibs/fix-tdr-delay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=fix-tdr-delay" />
 </a>
+
 <a href="https://github.com/CoolLibs/Audio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Audio" />
 </a>
