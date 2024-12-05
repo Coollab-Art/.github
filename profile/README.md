@@ -32,6 +32,10 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/spawn_process">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=spawn_process" />
+</a>
+
 <a href="https://github.com/CoolLibs/no-sleep">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=no-sleep" />
 </a>
