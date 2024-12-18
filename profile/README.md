@@ -32,6 +32,10 @@ Visit [our website][website] for more information!
 
 ## Standalone libraries
 
+<a href="https://github.com/CoolLibs/get_system_error">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=get_system_error" />
+</a>
+
 <a href="https://github.com/CoolLibs/spawn_process">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=spawn_process" />
 </a>
