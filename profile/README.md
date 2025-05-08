@@ -1,15 +1,25 @@
-# CoolLibs
+# Coollab
 
-*https://coollibs.github.io/*
+*https://coollab-art.com/*
 
-Welcome to the *CoolLibs* organization! 🥳
+Welcome to the *Coollab* organization! 🥳
 
-🚀 Our main goal is to build *Cool*, a modern framework for computer graphics software.<br/>
-🛠️ In doing so we also develop many small libraries, independent of the big framework.<br/>
-🎨 With this framework we build [a generative-art software, *Coollab*](https://coollab-art.com/).<br/>
-📖 We also document our process as much as possible and [share our learnings on our website](https://coollibs.github.io/blog).<br/>
-🤗 We support other open-source projects and contribute back to all the projects we rely on, either through pull requests or sponsorships.<br/>
-👩‍🏫 We take on interns each year because we are happy to teach young developers and welcome new contributors.<br/>
+🚀 Our main goal is to build *Coollab*, a node-based software to create visual effects and generative-art<br/>
+🛠️ In doing so we also develop a framework, *Cool*, and many small libraries independent of the big framework<br/>
+
+<a href="https://github.com/Coollab-Art/Coollab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Coollab" />
+</a>
+
+## Cool framework
+
+A modern framework to build C++ applications, focused on graphics
+
+<a href="https://github.com/Coollab-Art/Cool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Cool&theme=" />
+</a>
+
+## Standalone libraries
 
 The philosophy of our libraries is to be:
 - 🎁 Open-source
@@ -17,181 +27,136 @@ The philosophy of our libraries is to be:
 - 😎 Easy to integrate into any project through CMake
 - 🛠️ Easy to build from source
 
-Visit [our website][website] for more information!
-
-[website]: https://coollibs.github.io/
-
-[**💗 Sponsor Us on GitHub**](https://github.com/sponsors/CoolLibs)<br/>
-[**💗 Sponsor Us on uTip**](https://utip.io/CoolLab)
-
-## Cool framework
-
-<a href="https://github.com/CoolLibs/Cool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Cool&theme=" />
+<a href="https://github.com/Coollab-Art/get_system_error">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=get_system_error" />
 </a>
 
-## Standalone libraries
-
-<a href="https://github.com/CoolLibs/get_system_error">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=get_system_error" />
+<a href="https://github.com/Coollab-Art/spawn_process">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=spawn_process" />
 </a>
 
-<a href="https://github.com/CoolLibs/spawn_process">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=spawn_process" />
+<a href="https://github.com/Coollab-Art/no-sleep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=no-sleep" />
 </a>
 
-<a href="https://github.com/CoolLibs/no-sleep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=no-sleep" />
+<a href="https://github.com/Coollab-Art/fix-tdr-delay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=fix-tdr-delay" />
 </a>
 
-<a href="https://github.com/CoolLibs/fix-tdr-delay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=fix-tdr-delay" />
+<a href="https://github.com/Coollab-Art/Audio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Audio" />
 </a>
 
-<a href="https://github.com/CoolLibs/Audio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Audio" />
+<a href="https://github.com/Coollab-Art/wants_dark_theme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=wants_dark_theme" />
 </a>
 
-<a href="https://github.com/CoolLibs/wants_dark_theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=wants_dark_theme" />
+<a href="https://github.com/Coollab-Art/os_name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=os_name" />
 </a>
 
-<a href="https://github.com/CoolLibs/os_name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=os_name" />
+<a href="https://github.com/Coollab-Art/ImGui_StyleEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=ImGui_StyleEditor" />
 </a>
 
-<a href="https://github.com/CoolLibs/ImGui_StyleEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=ImGui_StyleEditor" />
+<a href="https://github.com/Coollab-Art/imgui_gradient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=imgui_gradient" />
 </a>
 
-<a href="https://github.com/CoolLibs/imgui_gradient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=imgui_gradient" />
+<a href="https://github.com/Coollab-Art/algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=algorithms" />
 </a>
 
-<a href="https://github.com/CoolLibs/algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=algorithms" />
+<a href="https://github.com/Coollab-Art/wafl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=wafl" />
 </a>
 
-<a href="https://github.com/CoolLibs/wafl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=wafl" />
+<a href="https://github.com/Coollab-Art/stringify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=stringify" />
 </a>
 
-<a href="https://github.com/CoolLibs/stringify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=stringify" />
+<a href="https://github.com/Coollab-Art/cmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=cmd" />
 </a>
 
-<a href="https://github.com/CoolLibs/cmd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cmd" />
+<a href="https://github.com/Coollab-Art/reg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=reg" />
 </a>
 
-<a href="https://github.com/CoolLibs/reg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=reg" />
+<a href="https://github.com/Coollab-Art/serv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=serv" />
 </a>
 
-<a href="https://github.com/CoolLibs/serv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=serv" />
+<a href="https://github.com/Coollab-Art/CMakeUtils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=CMakeUtils" />
 </a>
 
-<a href="https://github.com/CoolLibs/CMakeUtils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=CMakeUtils" />
+<a href="https://github.com/Coollab-Art/tooling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=tooling" />
 </a>
 
-<a href="https://github.com/CoolLibs/tooling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=tooling" />
+<a href="https://github.com/Coollab-Art/img">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=img" />
 </a>
 
-<a href="https://github.com/CoolLibs/img">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=img" />
+<a href="https://github.com/Coollab-Art/cam3d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=cam3d" />
 </a>
 
-<a href="https://github.com/CoolLibs/cam3d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cam3d" />
+<a href="https://github.com/Coollab-Art/op">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=op" />
 </a>
 
-<a href="https://github.com/CoolLibs/op">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=op" />
+<a href="https://github.com/Coollab-Art/glpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=glpp" />
 </a>
 
-<a href="https://github.com/CoolLibs/glpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp" />
+<a href="https://github.com/Coollab-Art/smart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=smart" />
 </a>
 
-<a href="https://github.com/CoolLibs/smart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=smart" />
+<a href="https://github.com/Coollab-Art/glpp-extended">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=glpp-extended" />
 </a>
 
-<a href="https://github.com/CoolLibs/glpp-extended">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=glpp-extended" />
+<a href="https://github.com/Coollab-Art/open">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=open" />
 </a>
 
-<a href="https://github.com/CoolLibs/open">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=open" />
+<a href="https://github.com/Coollab-Art/exe_path">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=exe_path" />
 </a>
 
-<a href="https://github.com/CoolLibs/exe_path">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=exe_path" />
+<a href="https://github.com/Coollab-Art/easy-shaderc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=easy-shaderc" />
 </a>
 
-<a href="https://github.com/CoolLibs/easy-shaderc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy-shaderc" />
+<a href="https://github.com/Coollab-Art/folder_watcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=folder_watcher" />
 </a>
 
-<a href="https://github.com/CoolLibs/folder_watcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=folder_watcher" />
+<a href="https://github.com/Coollab-Art/easy_opencv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=easy_opencv" />
 </a>
 
-<a href="https://github.com/CoolLibs/easy_opencv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy_opencv" />
+<a href="https://github.com/Coollab-Art/wcam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=wcam" />
 </a>
 
-<a href="https://github.com/CoolLibs/wcam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=wcam" />
-</a>
-
-<a href="https://github.com/CoolLibs/easy_ffmpeg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=easy_ffmpeg" />
+<a href="https://github.com/Coollab-Art/easy_ffmpeg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=easy_ffmpeg" />
 </a>
 
 ## Templates
 
-<a href="https://github.com/CoolLibs/library-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=library-template" />
+<a href="https://github.com/Coollab-Art/library-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=library-template" />
 </a>
 
-<a href="https://github.com/CoolLibs/Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
+<a href="https://github.com/Coollab-Art/cpp-CI-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=cpp-CI-template" />
 </a>
-
-<a href="https://github.com/CoolLibs/cpp-CI-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=cpp-CI-template" />
-</a>
-
-## Projects using Cool
-
-<a href="https://github.com/CoolLibs/Lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab" />
-</a>
-
-<a href="https://github.com/CoolLibs/Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Demo" />
-</a>
-
-[*Add your own project to this list!*](https://github.com/CoolLibs/.github/issues)
 
 ## Credits
 
-*This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*.
-
-We are built on top of many amazing open-source projects:
-- [Dear ImGui](https://github.com/ocornut/imgui) for all of our UI
-- [doctest](https://github.com/onqtam/doctest) for unit-tests
-- [spdlog](https://github.com/gabime/spdlog) for nice and flexible logging
-- [glfw](https://www.glfw.org/) for cross-platform window creation
-- [Native File Dialog Extended](https://github.com/btzy/nativefiledialog-extended) for cross-platform file dialogs
-- [Boxer](https://github.com/aaronmjacobs/Boxer) for cross-platform message boxes
-- [cereal](https://uscilab.github.io/cereal/) for serialization
-- [glm](https://github.com/g-truc/glm) for 2D and 3D vector math
-- [glad](https://glad.dav1d.de/) for loading OpenGL functions
-- [Vookoo](https://github.com/andy-thomason/Vookoo) for wrapping Vulkan with a friendlier interface
-- [scope_guard](https://github.com/ricab/scope_guard) for an implementation of the scope guard pattern
-- [shaderc](https://github.com/google/shaderc) for pre-processing and compiling shaders at runtime
+*This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*
