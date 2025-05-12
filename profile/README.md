@@ -11,6 +11,10 @@ Welcome to the *Coollab* organization! 🥳
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Coollab" />
 </a>
 
+<a href="https://github.com/Coollab-Art/Launcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Launcher" />
+</a>
+
 ## Cool framework
 
 A modern framework to build C++ applications, focused on graphics
