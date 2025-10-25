@@ -1,5 +1,7 @@
 # Coollab
 
+✨ Generative visuals for everyone ✨
+
 *https://coollab-art.com/*
 
 Welcome to the *Coollab* organization! 🥳
@@ -164,4 +166,5 @@ The philosophy of our libraries is to be:
 ## Credits
 
 *This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*
+
 
