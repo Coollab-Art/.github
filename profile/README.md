@@ -20,7 +20,7 @@ Welcome to the *Coollab* organization! 🥳
 A modern framework to build C++ applications, focused on graphics
 
 <a href="https://github.com/Coollab-Art/Cool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Cool&theme=" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Cool" />
 </a>
 
 ## Standalone libraries
@@ -164,3 +164,4 @@ The philosophy of our libraries is to be:
 ## Credits
 
 *This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*
+
